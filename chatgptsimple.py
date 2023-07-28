@@ -1,6 +1,6 @@
 import openai
 
-openai.api_key = "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"
+openai.api_key = "Your_ID"
 
 Target_Audience = "Fashion-conscious millennials aged 25-35, primarily located in urban areas. They are interested in sustainable fashion and value unique and trendy designs"
 Product_Details = "We offer handmade, eco-friendly clothing using organic materials. Our brand focuses on promoting ethical fashion and supporting local artisans."
